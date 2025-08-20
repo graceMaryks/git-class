@@ -9,6 +9,7 @@ git remote add name remote_path ( command for adding remote repository)
 git remote -v( command for lifting remote)
 git push -u remote_name branch_name (command for adding changes in lr to rr)
 git branch(to check branch)
+git log (commit history)
  
 
 
