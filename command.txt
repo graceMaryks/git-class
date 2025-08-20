@@ -1,0 +1,8 @@
+git config --list   (cmd for listing congiguration detail) 
+git config --global user.name "username"   (cmd for adding username)
+git config --global user.email "abc@gmail.com"   (cmd for adding email)
+git init   (cmd for initilizing git repostory)
+git status  (cmd for listing all untracked files)
+git add -A  (cmd for adding all untracked file to staging area)
+git commit -m "commit msg" (cmd for adding all staged files to local repostory)
+
