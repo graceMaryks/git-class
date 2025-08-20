@@ -5,4 +5,7 @@ git init   (cmd for initilizing git repostory)
 git status  (cmd for listing all untracked files)
 git add -A  (cmd for adding all untracked file to staging area)
 git commit -m "commit msg" (cmd for adding all staged files to local repostory)
+ 
 
+
+ 
