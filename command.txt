@@ -8,4 +8,3 @@ git commit -m "commit msg" (cmd for adding all staged files to local repostory)
  
 
 
- 
