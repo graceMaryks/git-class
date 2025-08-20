@@ -5,6 +5,10 @@ git init   (cmd for initilizing git repostory)
 git status  (cmd for listing all untracked files)
 git add -A  (cmd for adding all untracked file to staging area)
 git commit -m "commit msg" (cmd for adding all staged files to local repostory)
+git remote add name remote_path ( command for adding remote repository)
+git remote -v( command for lifting remote)
+git push -u remote_name branch_name (command for adding changes in lr to rr)
+git branch(to check branch)
  
 
 
